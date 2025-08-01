@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![ML](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange.svg)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
 *A sophisticated machine learning system that analyzes tweet stances by comparing them against news articles using advanced NLP and XGBoost classification.*
 
